@@ -1,7 +1,3 @@
-Great, thanks for providing all the details! Here’s a customized README file for your GitHub profile repository:
-
----
-
 # Welcome to Ahsan Mehmood Awan's GitHub Profile!
 
 Hello! 👋 I’m **Ahsan Mehmood Awan**, a **Computer Engineer** who recently completed my degree in August 2024. I have a keen interest in **Data Analytics**, **Artificial Intelligence (AI)**, **Machine Learning**, and **Programming**.
